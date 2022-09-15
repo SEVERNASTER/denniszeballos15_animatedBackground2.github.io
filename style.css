@@ -75,10 +75,6 @@ h1 {
     .rest , .heart {
         display: none;
     }
-    
-    .container {
-        backgorund-color: #fff:
-    }
 }
 
 @media screen and (max-width: 380px){ /*S8+*/
