@@ -74,6 +74,7 @@ h1 {
 @media screen and (max-width: 450px){ /*A51 A71*/
     .rest , .heart {
         display: none;
+        backgroung-color: #fff;
     }
 }
 
